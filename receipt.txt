@@ -1,0 +1,15 @@
+Receipt
+Uses: variable types, functions
+
+0. Create a double and use it to print a receipt that has a price. 
+E.g. 
+Receipt: $10.27
+
+1. Write a function called printReceipt that takes a price as an argument (parameter) and prints a "receipt" with the price. (Hint: use refactor)
+
+2. Extend your function to also take the name of the item as an argument and print both the item and the price. 
+
+3. Extend your function to also take the name of the person who bought it and say at the end of the receipt: 
+"Thanks for shopping, NAME. Have a great day!"
+
+5. Extend printReceipt to also take a quantity of an item. Multiply quantity by price per item to get the total price. 
