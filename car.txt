@@ -1,0 +1,22 @@
+Make a new "CarTest" class - make sure to check the option for a main function!!!
+
+Build a Car class with the following attributes: 
+fuel (int)
+color (String)
+x (int - x position)
+y (int - y position)
+
+Make two constructors: 
+1. default constructor
+2. constructor that sets all car attributes
+
+As you go, build accessors for attributes as necessary. 
+
+Build a print function that will print all the current attributes of the car. 
+
+Add functionality to move the car. It will require 1 unit of fuel per one unit of change in x or y. Remember that you must ensure you have enough fuel before moving. 
+
+Add functionality to fuel up the car. 
+
+Now add a variable to your class to represent total money spent on the car. When you add fuel, it will cost $2.93/gallon. 
+
